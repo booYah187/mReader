@@ -1,5 +1,5 @@
 # mReader
-<img src="https://github.com/booYah187/mReader/blob/main/mReader/mreader.gif?raw=true" alt="alt text" width="300" height="300" />
+<img src="https://github.com/booYah187/mReader/blob/main/mreader.gif?raw=true" alt="alt text" width="300" height="300" />
 
 .epub and .txt reader for [PortMaster](https://landing.portmaster.games/) capable devices. Ported from [pixel-reader](https://github.com/ealang/pixel-reader) by [ealang](https://github.com/ealang)
 
